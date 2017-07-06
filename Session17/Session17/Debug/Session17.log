@@ -1,0 +1,23 @@
+﻿Build started 05-10-2015 15:35:40.
+     1>Project "c:\Users\Desmond\documents\visual studio 2015\Projects\Session17\Session17\Session17.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Installed Softs\Programming\Visual Stuido\VS 2014\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Session17.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Session17.cpp
+         Session17.cpp
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(8): error C2087: 'abstract declarator': missing subscript
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(38): error C2664: 'void A2D_mulitply(int [][],int [][],int,int,int,int)': cannot convert argument 1 from 'int [10][10]' to 'int [][]'
+         c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(38): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(37): warning C4390: ';': empty controlled statement found; is this the intent?
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(42): error C2061: syntax error: identifier 'b'
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(46): error C2065: 'x': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(47): error C2065: 'n': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(50): error C2065: 'x': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(52): error C2065: 'n': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(54): error C2065: 'y': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(56): error C2065: 'b': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(62): error C2065: 'x': undeclared identifier
+     1>c:\users\desmond\documents\visual studio 2015\projects\session17\session17\session17.cpp(64): error C2065: 'n': undeclared identifier
+     1>Done Building Project "c:\Users\Desmond\documents\visual studio 2015\Projects\Session17\Session17\Session17.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.20

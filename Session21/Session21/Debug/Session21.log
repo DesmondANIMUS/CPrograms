@@ -1,0 +1,12 @@
+﻿Build started 13-Nov-15 9:02:07 PM.
+     1>Project "C:\Users\Gaurav\Documents\Visual Studio 2015\Projects\VIPS\Session21\Session21\Session21.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Session21.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Session21.cpp
+         Session21.cpp
+     1>c:\users\gaurav\documents\visual studio 2015\projects\vips\session21\session21\session21.cpp(12): error C2440: '=': cannot convert from 'int [3][4]' to 'int *'
+         c:\users\gaurav\documents\visual studio 2015\projects\vips\session21\session21\session21.cpp(12): note: Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+     1>Done Building Project "C:\Users\Gaurav\Documents\Visual Studio 2015\Projects\VIPS\Session21\Session21\Session21.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.37

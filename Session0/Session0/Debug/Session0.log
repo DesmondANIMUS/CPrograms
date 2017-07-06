@@ -1,0 +1,2 @@
+﻿  stdafx.cpp
+c:\users\gaurav\documents\visual studio 2015\projects\vips\session0\session0\stdafx.h(10): fatal error C1083: Cannot open include file: 'stdio.h': No such file or directory

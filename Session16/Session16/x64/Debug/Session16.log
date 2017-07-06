@@ -1,0 +1,14 @@
+﻿Build started 01-10-2015 19:31:14.
+     1>Project "C:\Users\Desmond\documents\visual studio 2015\Projects\Session16\Session16\Session16.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Installed Softs\Programming\Visual Stuido\VS 2014\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"x64\Debug\Session16.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Session16.cpp
+         Session16.cpp
+       Link:
+         E:\Installed Softs\Programming\Visual Stuido\VS 2014\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Desmond\documents\visual studio 2015\Projects\Session16\x64\Debug\Session16.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Desmond\documents\visual studio 2015\Projects\Session16\x64\Debug\Session16.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Desmond\documents\visual studio 2015\Projects\Session16\x64\Debug\Session16.lib" /MACHINE:X64 x64\Debug\Session16.obj
+         x64\Debug\stdafx.obj
+         Session16.vcxproj -> C:\Users\Desmond\documents\visual studio 2015\Projects\Session16\x64\Debug\Session16.exe
+     1>Done Building Project "C:\Users\Desmond\documents\visual studio 2015\Projects\Session16\Session16\Session16.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.76
